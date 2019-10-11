@@ -1,8 +1,7 @@
 # OneTimePad
 OneTimePad cipher in  Javascript
 
-This is a modified version of github.com/karai17/One-Time-Pad 
-
+This is a modified version of [karai17/One-Time-Pad](<github.com/karai17/One-Time-Pad>)
 # installation 
   Clone or download this repo and include in your project folder 
   
@@ -33,7 +32,7 @@ This is a modified version of github.com/karai17/One-Time-Pad
     
     
 # Credits
-  This 'library' was based on one-time-pad implementation of github.com/karai17/One-Time-Pad adapted for command line and general pourpose usage.
+  This 'library' was based on one-time-pad implementation of [karai17/One-Time-Pad](<github.com/karai17/One-Time-Pad>) adapted for command line and general pourpose usage.
   
 # License 
   MIT license
